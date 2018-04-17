@@ -1,15 +1,15 @@
 // write your code below!
 function happyHolidays() {
-  return "Happy holidays!"
+  return "Happy holidays!";
 }
 
-  var name = "Goku"
+  var name = "Goku";
 function happyHolidaysTo(name) {
 
-  return `Happy holidays, ${name}!`
+  return `Happy holidays, ${name}!`;
 }
 
-var holiday = "Rusev Day"
+var holiday = "Independence Day"
 function happyHolidayTo() {
-  return `Happy ${holiday}, ${name}`
+  return `Happy ${holiday}, ${name}`;
 }
