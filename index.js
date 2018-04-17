@@ -6,5 +6,5 @@ function happyHolidays() {
   var name = "Goku"
 function happyHolidaysTo(name) {
 
-  return `Happy holidays, ${name}`
+  return `Happy holidays, ${name}!`
 }
